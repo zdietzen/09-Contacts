@@ -18,6 +18,10 @@ namespace Contacts
     /// <summary>
     /// Interaction logic for EditWindow.xaml
     /// </summary>
+    public partial class LoginWindow
+    {
+
+    }
     public partial class EditWindow : Window
     {
         private Contact currentContact;
